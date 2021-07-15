@@ -1,16 +1,36 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**faceslog/faceslog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey, I'm Faces also known as faceslog.
+I'm a student in Software Development living in France.
 
-Here are some ideas to get you started:
+Discord: faceslog#6851 \
+Website: [here](https://faceslog.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stats 📊
+
+<img src="https://github-readme-stats.vercel.app/api?username=faceslog&count_private=true&theme=omni&show_icons=true&hide=stars" />
+
+## Languages 📜
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faceslog&layout=compact&theme=omni" />
+
+- ***Prefer Using*** 😄
+
+  <img width="48px" src="icons/languages/c-plus-plus.svg" />
+  <img width="48px" src="icons/languages/c.svg" />
+  <img width="48px" src="icons/languages/javascript.svg" />
+  <img width="48px" src="icons/languages/java.svg" />
+
+- ***Learnt a Little*** 😅
+  
+  <img width="48px" src="icons/languages/csharp.svg" />
+  <img width="48px" src="icons/languages/typescript.svg" />
+  <img width="48px" src="icons/languages/assembly.svg" />
+  <img width="48px" src="icons/languages/go.svg" />
+  
+- ***IDEs*** 💻 
+
+  <img align="left" alt="VSCode" width="30px" src="icons/ide/vs-code.svg" />
+  <img align="left" alt="Visual Studio 2019" width="30px" src="icons/ide/vs2019.svg" />
+  <img align="left" alt="CLion" width="35px" src="icons/ide/clion.png" />
+  <img alt="Intellij" width="38px" src="icons/ide/intellij.svg" />
