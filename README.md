@@ -12,7 +12,7 @@ Website: [here](https://faceslog.com)
 
 ## Languages 📜
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faceslog&layout=compact&theme=omni" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faceslog&layout=compact&theme=omni&langs_count=6" />
 
 - ***Prefer Using*** 😄
 
