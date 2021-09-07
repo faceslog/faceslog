@@ -28,7 +28,7 @@ Website: [here](https://faceslog.com)
   <img width="48px" src="icons/languages/go.svg" />
   
 - ***IDEs*** 💻 
-- 
+
   <img align="left" alt="Visual Studio 2019" width="30px" src="icons/ide/vs2019.svg" />
   <img align="left" alt="VSCode" width="30px" src="icons/ide/vs-code.svg" />
   <img align="left" alt="CLion" width="35px" src="icons/ide/clion.png" />
