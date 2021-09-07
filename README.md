@@ -6,9 +6,8 @@ I'm a student in Software Development living in France.
 Discord: faceslog#6851 \
 Website: [here](https://faceslog.com)
 
-## Stats 📊
-
-<img src="https://github-readme-stats.vercel.app/api?username=faceslog&count_private=true&theme=omni&show_icons=true&hide=stars" />
+[//]: # (## Stats 📊)
+[//]: # (<img src="https://github-readme-stats.vercel.app/api?username=faceslog&count_private=true&theme=omni&show_icons=true&hide=stars" />)
 
 ## Languages 📜
 
