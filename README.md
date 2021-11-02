@@ -5,7 +5,7 @@ I'm a student in Software Development living in France.
 
 Discord: faceslog#6851 \
 Website: [here](https://faceslog.com) \
-Github Gists: [here](https://gist.github.com/faceslog)
+Github Gist: [here](https://gist.github.com/faceslog)
 
 [//]: # (## Stats 📊)
 [//]: # (<img src="https://github-readme-stats.vercel.app/api?username=faceslog&count_private=true&theme=omni&show_icons=true&hide=stars" />)
