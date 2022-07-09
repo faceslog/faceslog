@@ -1,8 +1,8 @@
 # Hi there 👋
 
 Hey, I'm Faces also known as faceslog.
-I'm a student in Software Development living in France.<br/>
-*(Most of my repos are now private due to people copy pasting my code and violating license rules.)*
+I'm a student in Software Development.<br/>
+*(Most of my repos are slowly being transfered to my Gitlab.)*
 
 Discord: faceslog#6851 \
 Website: [here](https://faceslog.com) \
