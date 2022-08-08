@@ -6,4 +6,4 @@ My Gitlab: [here](https://gitlab.com/faceslog) <br/>
 My Website: [here](https://faceslog.com) <br/>
 My Gists: [here](https://gist.github.com/faceslog) <br/>
 
-To contact me please check my website 😊
+To contact me please check my website 😊 !
