@@ -29,4 +29,5 @@ Github Gists: [Here](https://gist.github.com/faceslog) <br/>
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
 
+*Quotes generated using [piyushsuthar/github-readme-quotes](https://github.com/piyushsuthar/github-readme-quotes)*
 <!-- Others Icon pack: https://github.com/Ileriayo/markdown-badges#readme -->
