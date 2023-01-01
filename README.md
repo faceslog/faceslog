@@ -27,7 +27,6 @@ Github Gists: [Here](https://gist.github.com/faceslog) <br/>
 
 *Some people used some of my code and domain name (faceslog.com) as decoy in their code to spread their malware, cheats and more. Even if I reported these repositories to GitHub some may be uploaded again.*
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
+<!-- <a href="https://stackoverflow.com/users/16463550/faceslog"><img src="https://stackoverflow.com/users/flair/16463550.png?theme=dark" width="208" height="58" alt="profile for faceslog at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for faceslog at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a> -->
 
-*Quotes generated using [piyushsuthar/github-readme-quotes](https://github.com/piyushsuthar/github-readme-quotes)*
 <!-- Others Icon pack: https://github.com/Ileriayo/markdown-badges#readme -->
