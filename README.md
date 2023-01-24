@@ -23,8 +23,6 @@ Github Gists: [Here](https://gist.github.com/faceslog) <br/>
 
 [![Bookstack](https://img.shields.io/badge/Bookstack-%230288D1.svg?style=for-the-badge&logo=bookstack&logoColor=white)](https://bookstack.faceslog.com)<br/> 
 
-![Faceslog's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=faceslog&layout=compact&theme=aura_dark)
-
 *Some people used some of my code and domain name (faceslog.com) as decoy in their code to spread their malware, cheats and more. Even if I reported these repositories to GitHub some may be uploaded again.*
 
 <!-- <a href="https://stackoverflow.com/users/16463550/faceslog"><img src="https://stackoverflow.com/users/flair/16463550.png?theme=dark" width="208" height="58" alt="profile for faceslog at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for faceslog at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a> -->
