@@ -1,8 +1,6 @@
 ## Hi there 🐈
 
 ![GitHub followers](https://img.shields.io/github/followers/faceslog?style=social)
-![Mastodon Follow](https://img.shields.io/mastodon/follow/109324985835537964?domain=https%3A%2F%2Fmstdn.social&style=social)
-
 
 Hello ! I'm a computer science student known as faceslog. I have always been passionate about technology and the endless possibilities it offers. Welcome to my world.
 
