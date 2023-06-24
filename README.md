@@ -8,7 +8,6 @@ I'm happy to help those who are just starting out in the field and are looking f
 Feel free to contact me using my website 😊.
 
 Website: [Here](https://faceslog.com) <br/>
-Blog: [Here](https://me.faceslog.com) <br/>
 Github Gists: [Here](https://gist.github.com/faceslog) <br/>
            
 *Some people used some of my code and domain name (faceslog.com) as decoy in their code to spread their malware, cheats and more. Even if I reported these repositories to GitHub some may be uploaded again.*
