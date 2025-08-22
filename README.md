@@ -8,9 +8,10 @@ I'm happy to help those who are just starting out in the field and are looking f
 Feel free to contact me using my website 😊.
 
 Main topics:
-- Machine Learning
+- C++ / Learning Rust
 - Reverse Engineering
 - Self-Hosting
+- Machine Learning
 
 Website: [Here](https://faceslog.com) <br/>
 Github Gists: [Here](https://gist.github.com/faceslog) <br/>
